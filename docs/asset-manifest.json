@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fpp-Jonatanfroeling-user/static/css/main.87c9b625.css",
+    "main.js": "/fpp-Jonatanfroeling-user/static/js/main.10b59fd1.js",
+    "static/js/286.40397c56.chunk.js": "/fpp-Jonatanfroeling-user/static/js/286.40397c56.chunk.js",
+    "index.html": "/fpp-Jonatanfroeling-user/index.html",
+    "main.87c9b625.css.map": "/fpp-Jonatanfroeling-user/static/css/main.87c9b625.css.map",
+    "main.10b59fd1.js.map": "/fpp-Jonatanfroeling-user/static/js/main.10b59fd1.js.map",
+    "286.40397c56.chunk.js.map": "/fpp-Jonatanfroeling-user/static/js/286.40397c56.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87c9b625.css",
+    "static/js/main.10b59fd1.js"
+  ]
+}

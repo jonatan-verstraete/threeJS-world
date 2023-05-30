@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunka_reality=self.webpackChunka_reality||[]).push([[286],{5286:function(e,r,a){a.r(r);var o=a(9187),s=a(2791),t=a(6025),l=a(184);r.default=function(e){var r=e.scale,a=(0,s.useRef)(),i=(0,o.L)("./Models/Door/Door.gltf"),n=i.materials,c=i.nodes;return(0,l.jsx)(l.Fragment,{children:(0,l.jsx)("group",{ref:a,dispose:null,position:[r/2,0,0],rotation:(0,t.cG)(90,0,0),scale:1,children:(0,l.jsx)("mesh",{geometry:c.Door.geometry,material:n.basic,rotation:(0,t.cG)(180,0,0),scale:[r/2,.1,r]})})})}}}]);
+//# sourceMappingURL=286.40397c56.chunk.js.map
